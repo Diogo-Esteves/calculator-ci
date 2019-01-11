@@ -9,7 +9,6 @@ import calculator
 
 class TestCalculator:
 
-
     def test_addition(self):
         assert 6 == calculator.add(4, 2)
 
